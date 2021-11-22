@@ -1,4 +1,4 @@
-# EzGen
+# Alter Token Generator 
 ## _Open Source Discord Account Creator_
 
 This program abuses the discord api and uses the [2Captcha](https://2captcha.com?from=11240415) captcha solving service to make discord user accounts.
