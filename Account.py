@@ -115,9 +115,9 @@ def main():
                 create_discord_account(captcha_key=captcha_step_two[1])
                 looping = False
         except IndexError:
-            print("Token Captcha Not Ready")
+            print("Token Captcha Not Found!")
 
 
 if __name__ == "__main__":
-    typewritter("https://github.com/3v1")
+    typewritter("Alter Token Generator ")
     main()
