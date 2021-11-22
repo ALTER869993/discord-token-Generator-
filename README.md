@@ -19,10 +19,7 @@ This program abuses the discord api and uses the [2Captcha](https://2captcha.com
 ## Usage
 - Run The Following Command To Start The Account Gen
     - python3 Account.py
-
-## Preview
-![img](https://media.discordapp.net/attachments/797210691688988722/844224938277994524/unknown.png?width=810&height=447)
-
+##support server https://discord.gg/2bhtxp5kA4
 ## Todo
 - Add An Option To Run With Proxies
 - Improve Code Formatting
