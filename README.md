@@ -1,3 +1,8 @@
+#Premium Features
+•Unlocked tokens
+• Cap bypass
+• Premium Mail api (in development)
+
 # Alter Token Generator 
 ## _Open Source Discord Account Creator_
 Coded By alter 
